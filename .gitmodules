@@ -1,0 +1,3 @@
+[submodule "gitflowsub"]
+	path = gitflowsub
+	url = git@github.com:thorn-jmh/gitflowsub.git
